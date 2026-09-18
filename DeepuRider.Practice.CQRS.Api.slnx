@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DeepuRider.Practice.CQRS.Api/DeepuRider.Practice.CQRS.Api.csproj" />
+  <Project Path="DeepuRider.Practice.CQRS.Core/DeepuRider.Practice.CQRS.Core.csproj" />
+  <Project Path="DeepuRider.Practice.CQRS.Handlers/DeepuRider.Practice.CQRS.Handlers.csproj" />
+</Solution>
